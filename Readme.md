@@ -1,8 +1,5 @@
-User: creer un readme pour mon projet (je lai pas fait solo c etait avec microsoft mslearn) 
 
-GitHub Copilot: GitHub Copilot
 
-```markdown
 # Bike Share — Apprentissage supervisé
 
 Résumé
